@@ -1,0 +1,9 @@
+{
+	"name" : "UserManagerMysql",
+	"description" : "A Module for easily managing a Mysql User Database",
+	"author" : "Nick Randazzo <cubeqtrader@gmail.com>",
+	"dependencies" :{
+		"mysql": ">=2.6.1"
+		
+	}
+}
