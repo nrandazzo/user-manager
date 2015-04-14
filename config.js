@@ -3,10 +3,10 @@
 var exports = module.exports = {};
 
 var mySqlConfig = { //Object Parameter for creating MySql connection
-	host:'',
-	user:'',
-	password:'',
-	database:''
+	host:'localhost',
+	user:'usermanager',
+	password:'sqlvaporizer1',
+	database:'UserDirectory'
 };
 
 var hashIterations = 100000;
