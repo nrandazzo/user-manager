@@ -4,8 +4,8 @@ var exports = module.exports = {};
 
 var mySqlConfig = { //Object Parameter for creating MySql connection
 	host:'localhost',
-	user:'usermanager',
-	password:'sqlvaporizer1',
+	user:'username',
+	password:'password',
 	database:'UserDirectory'
 };
 
