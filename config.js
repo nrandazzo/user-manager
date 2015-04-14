@@ -19,3 +19,4 @@ exports.hashIterations = function(){
 	return hashIterations;
 }
 	
+	

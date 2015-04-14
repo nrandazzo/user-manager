@@ -1,5 +1,5 @@
 {
-	"name" : "UserManagerMysql",
+	"name" : "user-manager",
 	"description" : "A Module for easily managing a Mysql User Database",
 	"author" : "Nick Randazzo <cubeqtrader@gmail.com>",
 	"dependencies" :{
